@@ -1,0 +1,12 @@
+h1{
+	font-size: 40px;
+	color: blue;
+	text-align: center;
+}
+div#hiscore{
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 30px;
+	color: blue;
+}
+
